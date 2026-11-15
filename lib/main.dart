@@ -112,7 +112,7 @@ class HomePage extends StatelessWidget {
                   title: 'YouTube',
                   icon: Icons.play_circle_outline,
                   onTap: () => openLink(
-                    'https://www.youtube.com/@nowherenews',
+                    'https://www.youtube.com/@nxwherenews',
                   ),
                 ),
               ],
